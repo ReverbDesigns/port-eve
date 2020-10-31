@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/port-eve/portfolio/static/css/main.b8f6ca7e.chunk.css",
-    "main.js": "/port-eve/portfolio/static/js/main.0e5d9fde.chunk.js",
-    "main.js.map": "/port-eve/portfolio/static/js/main.0e5d9fde.chunk.js.map",
-    "runtime~main.js": "/port-eve/portfolio/static/js/runtime~main.b2137ace.js",
-    "runtime~main.js.map": "/port-eve/portfolio/static/js/runtime~main.b2137ace.js.map",
-    "static/css/2.043d7c51.chunk.css": "/port-eve/portfolio/static/css/2.043d7c51.chunk.css",
-    "static/js/2.60592739.chunk.js": "/port-eve/portfolio/static/js/2.60592739.chunk.js",
-    "static/js/2.60592739.chunk.js.map": "/port-eve/portfolio/static/js/2.60592739.chunk.js.map",
-    "index.html": "/port-eve/portfolio/index.html",
-    "precache-manifest.303aaa413a146dcde200651e6fd90d67.js": "/port-eve/portfolio/precache-manifest.303aaa413a146dcde200651e6fd90d67.js",
-    "service-worker.js": "/port-eve/portfolio/service-worker.js",
-    "static/css/2.043d7c51.chunk.css.map": "/port-eve/portfolio/static/css/2.043d7c51.chunk.css.map",
-    "static/css/main.b8f6ca7e.chunk.css.map": "/port-eve/portfolio/static/css/main.b8f6ca7e.chunk.css.map",
-    "static/media/index.scss": "/port-eve/portfolio/static/media/slick.f97e3bbf.svg"
+    "main.css": "/port-eve/static/css/main.b8f6ca7e.chunk.css",
+    "main.js": "/port-eve/static/js/main.ef664d4e.chunk.js",
+    "main.js.map": "/port-eve/static/js/main.ef664d4e.chunk.js.map",
+    "runtime~main.js": "/port-eve/static/js/runtime~main.c69e1a78.js",
+    "runtime~main.js.map": "/port-eve/static/js/runtime~main.c69e1a78.js.map",
+    "static/css/2.01dff1e8.chunk.css": "/port-eve/static/css/2.01dff1e8.chunk.css",
+    "static/js/2.60592739.chunk.js": "/port-eve/static/js/2.60592739.chunk.js",
+    "static/js/2.60592739.chunk.js.map": "/port-eve/static/js/2.60592739.chunk.js.map",
+    "index.html": "/port-eve/index.html",
+    "precache-manifest.b990f8b76fee670a70e4acb2ac5bc3ae.js": "/port-eve/precache-manifest.b990f8b76fee670a70e4acb2ac5bc3ae.js",
+    "service-worker.js": "/port-eve/service-worker.js",
+    "static/css/2.01dff1e8.chunk.css.map": "/port-eve/static/css/2.01dff1e8.chunk.css.map",
+    "static/css/main.b8f6ca7e.chunk.css.map": "/port-eve/static/css/main.b8f6ca7e.chunk.css.map",
+    "static/media/index.scss": "/port-eve/static/media/slick.f97e3bbf.svg"
   }
 }
